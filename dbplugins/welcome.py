@@ -63,3 +63,4 @@ async def _(event):
         "Welcome note cleared. " + \
         "The previous welcome message was `{}`.".format(cws.custom_welcome_message)
     )
+    
